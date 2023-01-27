@@ -1,4 +1,4 @@
-module github.com/fatih/color
+module github.com/gozelle/color
 
 go 1.17
 
